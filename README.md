@@ -7,6 +7,7 @@ Face Mask Detection is a sophisticated machine learning project designed to iden
 - **Dataset Provision:** Comes with a pre-defined dataset for training and testing.
 - **Model Training:** Includes scripts to train the model on the provided dataset.
 - **Mask Detection:** Capable of detecting and classifying mask-wearing conditions.
+- **Instance Counting:** Provides a count of detected instances for each mask-wearing condition, offering insights into compliance rates within the observed groups.
 - **Performance Metrics:** Evaluates the model using MAPE, among other metrics.
 
 ## Dataset
